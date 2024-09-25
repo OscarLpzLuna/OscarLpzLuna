@@ -23,3 +23,7 @@ Soy estudiante de posgrado en la UNAM que busca adentrarse al mundo de Análisis
 * Actualmente estoy trabajando en mi tesis relacionada con la estimación de parámetros.
 * Recién terminé el programa 'Data Analyst' en TripleTen.
 * ¿Quieres contactar conmigo? (https://www.linkedin.com/in/oscarlpzluna/)
+---
+
+### Lenguajes y herramientas:
+Python  |  Pandas  |  SQL  | Jupyter Notebook  | Tableu  
