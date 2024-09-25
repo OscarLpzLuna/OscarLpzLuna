@@ -23,6 +23,7 @@ Soy estudiante de posgrado en la UNAM que busca adentrarse al mundo de Análisis
 * Actualmente estoy trabajando en mi tesis relacionada con la estimación de parámetros.
 * Recién terminé el programa 'Data Analyst' en TripleTen.
 * ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/Oscar-Lopez?style=flat-square&logo=In&logoColor=white&logoSize=auto&color=blue)(https://www.linkedin.com/in/oscarlpzluna/)
+* [![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://www.noelia-navarro.com/)
 ---
 
 ### Lenguajes y herramientas:
