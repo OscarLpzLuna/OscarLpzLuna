@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/OscarLpzLuna/OscarLpzLuna/blob/main/Data%20Analyst%20%20Background.png" width="800"/>
+</div>
 <h1> Hola! Soy Óscar, bienvenid@👋 </h1>
 
 <!--
