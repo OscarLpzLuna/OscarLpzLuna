@@ -29,7 +29,7 @@ Soy estudiante de posgrado en la UNAM que busca adentrarse al mundo de Análisis
 ---
 
 ### Lenguajes y herramientas:
-Python  |  Pandas  |  SQL  | Jupyter Notebook  | Tableu  
+Python  |  Pandas  | Scikit-Learn  |  SQL  | Jupyter Notebook  | Tableu  
 
 ---
 
